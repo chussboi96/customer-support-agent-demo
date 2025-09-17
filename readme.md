@@ -42,7 +42,7 @@ customer_support_agent/
 │   └── examples.json     # Example test queries
 ├── requirements.txt      # Dependencies
 └── README.md             # Documentation
-
+```
 
 
 🚀 Quick Start
@@ -75,3 +75,4 @@ Example (with llama3.1): ollama pull llama3.1 and then ollama serve
 - LangGraph is not used — workflow orchestration is manual.
 
 - APIs are mocked (randomized responses).
+
