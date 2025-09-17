@@ -68,12 +68,8 @@ Example (with llama3.1): ollama pull llama3.1 and then ollama serve
 - Feedback can be given per response (👍 / 👎).
 - Debug Info can be toggled in the sidebar.
 
+- PS: This is a demo (not production-ready).
 
-⚠️ Limitations
-- This is a demo (not production-ready).
-- Relies on local Ollama (no cloud fallback).
-- LangGraph is not used — workflow orchestration is manual.
 
-- APIs are mocked (randomized responses).
 
 
