@@ -1,4 +1,4 @@
-🤖 Customer Support Chat Agent (Demo)
+🤖 Customer Support Chat Agent
 A demo customer support chat agent built with Streamlit, LangChain, and Ollama.
 The agent can detect intents, analyze sentiment & urgency, call APIs (mocked), and escalate when needed. All interactions are logged locally for feedback and review.
 
@@ -75,4 +75,5 @@ Example (with llama3.1): ollama pull llama3.1 and then ollama serve
 - LangGraph is not used — workflow orchestration is manual.
 
 - APIs are mocked (randomized responses).
+
 
