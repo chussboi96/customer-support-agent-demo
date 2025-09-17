@@ -12,6 +12,7 @@ The agent can detect intents, analyze sentiment & urgency, call APIs (mocked), a
 
 
 📂 Project Structure
+```text
 customer_support_agent/
 │
 ├── app.py                # Main Streamlit app (UI + agent interface)
@@ -43,6 +44,7 @@ customer_support_agent/
 └── README.md             # Documentation
 
 
+
 🚀 Quick Start
 
 1. Install Dependencies
@@ -71,4 +73,5 @@ Example (with llama3.1): ollama pull llama3.1 and then ollama serve
 - This is a demo (not production-ready).
 - Relies on local Ollama (no cloud fallback).
 - LangGraph is not used — workflow orchestration is manual.
+
 - APIs are mocked (randomized responses).
