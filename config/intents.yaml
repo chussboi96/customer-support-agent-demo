@@ -1,0 +1,23 @@
+intents:
+  - refund
+  - order_status
+  - cancel_order
+  - change_address
+  - technical_issue
+  - billing
+  - feedback
+  - greeting
+  - thank_you
+  - goodbye
+  - smalltalk
+  - unknown
+  - upgrade_subscription
+  - downgrade_subscription
+  - reset_password
+  - account_closure
+  - shipping_info
+  - product_availability
+  - payment_issue
+  - return_item
+  - apply_discount
+  - loyalty_points
